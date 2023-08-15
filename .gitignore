@@ -1,5 +1,5 @@
 .venv
 performance_metrics.csv
-*.jpg
-*.mp4
+parrots_*.jpg
+noise.jpg
 
