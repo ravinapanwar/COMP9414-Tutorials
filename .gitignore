@@ -1,2 +1,5 @@
 .venv
 performance_metrics.csv
+*.jpg
+*.mp4
+
